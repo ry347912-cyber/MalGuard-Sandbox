@@ -548,24 +548,32 @@ git push origin feature/AmazingFeature
 - [ ] AbuseIPDB threat intelligence feed
 
 ---
-
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-> Project overview, architecture diagram, tech stack — dark cybersecurity theme
+<p align="center">
+  <img src="home.png.png" width="900"/>
+</p>
 
 ### ⬆️ Upload Page
-> Drag-and-drop file upload with security warnings, supported formats, progress bar
+<p align="center">
+  <img src="upload.png.png" width="900"/>
+</p>
 
 ### 📊 Analysis Results Page
-> Risk score ring, MITRE ATT&CK tags, process tree, network calls, file ops table
+<p align="center">
+  <img src="Result.png.png" width="900"/>
+</p>
 
 ### 📋 Logs Page
-> Live activity feed with severity filters (Critical/Warning/Info), search, timestamps
+<p align="center">
+  <img src="sandbox.png.png" width="900"/>
+</p>
 
 ### 📈 Dashboard Page
-> Summary stats, risk distribution bar chart, recent analyses list, activity timeline
-
+<p align="center">
+  <img src="Dashboard.png.png" width="900"/>
+</p>
 ---
 
 ## 👨‍💻 Author
